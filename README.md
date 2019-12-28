@@ -23,7 +23,7 @@ Output generated from a live-stream video. As we can see, there is regtangular b
   <img width="460" height="300" src="https://github.com/Palash09/Tracking_Nanopropellers_ComputerVision/blob/master/Tracking_3.png">
 </p>
 
-The above two output are of pre-recorded videos of the experiment.
+The above output is of pre-recorded video of the experiment.
 
 The algorithm performed satisfactorily good, with an accuracy of around 70%. 
 
