@@ -19,9 +19,9 @@ It had the flexibility of using either live stream videos or pre-recorded videos
 
 Output generated from a live-stream video. As we can see, there is regtangular box around the moving magnetic nanopropellers.
 
-![Fig-2](https://github.com/Palash09/Tracking_Nanopropellers_ComputerVision/blob/master/Tracking_2.png)
-
-![Fig-3](https://github.com/Palash09/Tracking_Nanopropellers_ComputerVision/blob/master/Tracking_3.png)
+<p align="center">
+  <img width="460" height="300" src="https://github.com/Palash09/Tracking_Nanopropellers_ComputerVision/blob/master/Tracking_3.png">
+</p>
 
 The above two output are of pre-recorded videos of the experiment.
 
